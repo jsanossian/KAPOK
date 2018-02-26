@@ -217,7 +217,7 @@
                                 </div>
                                 <div class="col-3 justify-content-center">
                                     <div class="row">
-                                        <div class="col-12"><img class="img-fluid" src="assets/img/BlackMirror_tv.jpg"></div>
+                                        <div class="col-12"><img class="img-fluid" src="assets/img/blackMirror_tv.jpg"></div>
                                         
                                             
                                         
@@ -267,7 +267,7 @@
                                 </div>
                                 <div class="col-3 justify-content-center">
                                     <div class="row">
-                                        <div class="col-12"><img class="img-fluid" src="assets/img/Power_tv.jpg"></div>
+                                        <div class="col-12"><img class="img-fluid" src="assets/img/power_tv.jpg"></div>
                                        
                                            
                                         
