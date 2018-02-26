@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css?family=Heebo|Krona+One|Merriweather+Sans|PT+Sans|Passion+One|Play:700|Raleway|Source+Sans+Pro');
+
+body {
+    background-image: url("/assets/img/background.jpg");
+    background-repeat: repeat-y;
+}
+
+.navbar{
+	background-color: black !important;
+}
+.navbar-collapse{
+	color: #d3d3d3 !important;
+}
+.nav-link {
+	color:white !important;
+}
+.login {
+	color:white !important;
+}
+.navbar-brand{
+	color: #FFFF44 !important;
+}
+body{
+	background-color: lightgrey;
+}
+.film{
+    background-color: lightyellow;
+}
+.film-title{
+    font-family: Raleway, sans-serif;
+    font-size: 32px;
+}
+.film-rating{
+    font-family: Play, sans-serif;
+}
+
+
+
