@@ -1,0 +1,15 @@
+.navbar{
+	background-color: black;
+}
+.navbar-collapse{
+	color: #d3d3d3;
+}
+.nav-link{
+	color:white;
+}
+.navbar-brand{
+	color: #FFFF44 !important;
+}
+body{
+	background-color: lightgrey;
+}
