@@ -12,21 +12,27 @@
 
 
 
-<body>
+<body style="background-image: url('assets/img/background.jpg');background-repeat: repeat-y;">
     <div>
         <jsp:include page="navbar.jsp"/>
      <!---END OF NAVBAR  !-->
     <div class="container-fluid" style="padding:0px 15px;">
+        <div class="jumbotron">
+    <h1>KAPOK FILM REVIEWS</h1> 
+    <p>Bootstrap is the most popular HTML, CSS, and JS framework for developing
+    responsive, mobile-first projects on the web.</p> 
+  </div>
+  
                 <div class='row'>
                     <div class="col-2 right-side"></div>
-                    <div class= "col-8 homepage-content">
+                    <div class= "col-8 film homepage-content">
                         <div class="row ">
 
                             <div class="col-12">
                                 <div class="row"><h2>Featured Movies</h2></div>
                                 <div class="row" style="margin-bottom:10px;"></div>
                                 <div class="row" style="margin-bottom:10px;margin-top:10px;">
-                                    <div class="col-3 justify-content-center">
+                                    <div class="film col-3 justify-content-center">
                                         <div class="row">
 
                                             <div class="col-12"><img class="img-fluid" src="assets/img/it_movie.jpg"></div>

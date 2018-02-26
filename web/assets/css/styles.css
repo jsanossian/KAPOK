@@ -1,10 +1,19 @@
+
+body {
+    background-image: url("/assets/img/background.jpg");
+    background-repeat: repeat-y;
+}
+
 .navbar{
 	background-color: black !important;
 }
 .navbar-collapse{
 	color: #d3d3d3 !important;
 }
-.nav-link{
+.nav-link {
+	color:white !important;
+}
+.login {
 	color:white !important;
 }
 .navbar-brand{
@@ -12,4 +21,7 @@
 }
 body{
 	background-color: lightgrey;
+}
+.film{
+    background-color: lightyellow;
 }
