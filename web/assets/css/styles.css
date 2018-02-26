@@ -2,10 +2,10 @@
 	background-color: black !important;
 }
 .navbar-collapse{
-	color: #d3d3d3;
+	color: #d3d3d3 !important;
 }
 .nav-link{
-	color:white;
+	color:white !important;
 }
 .navbar-brand{
 	color: #FFFF44 !important;
